@@ -996,9 +996,9 @@ transition: all 0.3s ease-in;
 }
  .text-bg {text-align: center;}
   .text-bg span {
-     font-size: 80px;
+     font-size: 11px;
 line-height: 80px;
-color: #000000;
+color: #0fc9da;
 text-transform: uppercase;
   }
  .text-bg h1 {
